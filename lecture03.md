@@ -2,7 +2,8 @@
 ## 学習内容
 
 - 起動を確認
-![サンプルアプリ起動確認](/image/sample-app.png)
+
+![サンプルアプリ起動確認](image/sample.png)
 
 
 ## APサーバ
