@@ -20,7 +20,7 @@
 ## DBサーバ
 - DBサーバ名
 
-![DB SERVER名](/image/DB_SERVE_name.png)
+![DB SERVER名](/image/DB_SERVER_name.png)
 
 - MySQL v8.4.0
 
