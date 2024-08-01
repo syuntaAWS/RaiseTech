@@ -10,7 +10,7 @@
 
 ![EC2詳細](image04/EC2詳細.png)
 
-![EC2セキュリティグループ](image04/EC2セキュリティグループ.png)
+![EC2セキュリティ](image04/EC2セキュリティ.png)
 
 ## EC2接続
 
@@ -23,7 +23,7 @@
 
 ![RDSインバウンド](image04/RDSインバウンド.png)
 
-![RDSセキュリティグループ](image04/RDSセキュリティグループ.png)
+![RDSセキュリティグループ](image04/RDSセキュリティ.png)
 
 
 
