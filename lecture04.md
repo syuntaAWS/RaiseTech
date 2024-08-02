@@ -2,15 +2,26 @@
 
 ## VPC作成
 
+VPC詳細
+
 ![VPC詳細](image04/VPC詳細.png)
 
-## EC2構築
+##　EC2
+
+1.EC2概要
 
 ![EC2概要](image04/EC2概要.png)
 
+
+2.EC2詳細
+
 ![EC2詳細](image04/EC2詳細.png)
 
-![EC2セキュリティ](image04/EC2セキュリティ.png)
+3.EC２セキュリティ
+
+![EC2セキュリティ課題用](image04/EC2セキュリティ課題用.png)
+
+
 
 ## EC2接続
 
@@ -19,10 +30,16 @@
 
 ## RDS作成
 
+1.RDS概要
+
 ![RDS概要](image04/RDS概要.png)
+
+2.RDSセキュリティーグループ
 
 ![RDSセキュリティグループ](image04/RDSセキュリティ.png)
 
+
+![RDSセキュリティグループ2](image04/RDSセキュリティ2.png)
 
 
 ## RDS接続
