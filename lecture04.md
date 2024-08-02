@@ -21,8 +21,6 @@
 
 ![RDS概要](image04/RDS概要.png)
 
-![RDSインバウンド](image04/RDSインバウンド.png)
-
 ![RDSセキュリティグループ](image04/RDSセキュリティ.png)
 
 
