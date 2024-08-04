@@ -6,7 +6,7 @@ VPC詳細
 
 ![VPC詳細](image04/VPC詳細.png)
 
-##　EC2
+## EC2
 
 1.EC2概要
 
