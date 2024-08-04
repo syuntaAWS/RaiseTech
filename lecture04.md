@@ -47,17 +47,23 @@ VPC詳細
 ![RDS接続](image04/RDS接続.png)
 
 
+
 #　修正
+
 
 ## EC2ポートIPアドレス修正
 
-![EC2ポートIPアドレス修正](image04/IP変更.png)
+
+![EC2ポートIPアドレス修正](image04/EC2IP変更.png)
 
 ##　サブネット修正
 
+
 ![RDSサブネット](image04/RDS概要差し替え.png)
 
+
 ##　不要ルール削除
+
 
 ![不要ルール削除](image04/ルール変更.png)
 
