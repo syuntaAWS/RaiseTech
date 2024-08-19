@@ -4,66 +4,66 @@
 
 VPC詳細
 
-![VPC詳細](image04/VPC詳細.png)
+![VPC詳細](image4/VPC詳細.png)
 
 ## EC2
 
 1.EC2概要
 
-![EC2概要](image04/EC2概要.png)
+![EC2概要](image4/EC2概要.png)
 
 
 2.EC2詳細
 
-![EC2詳細](image04/EC2詳細.png)
+![EC2詳細](image4/EC2詳細.png)
 
 3.EC２セキュリティ
 
-![EC2セキュリティ課題用](image04/EC2セキュリティ課題用.png)
+![EC2セキュリティ課題用](image4/EC2セキュリティ課題用.png)
 
 
 
 ## EC2接続
 
-![EC2接続](image04/EC2接続.png)
+![EC2接続](image4/EC2接続.png)
 
 
 ## RDS作成
 
 1.RDS概要
 
-![RDS概要](image04/RDS概要.png)
+![RDS概要](image4/RDS概要.png)
 
 2.RDSセキュリティーグループ
 
-![RDSセキュリティグループ](image04/RDSセキュリティ.png)
+![RDSセキュリティグループ](image4/RDSセキュリティ.png)
 
 
-![RDSセキュリティグループ2](image04/RDSセキュリティ2.png)
+![RDSセキュリティグループ2](image4/RDSセキュリティ2.png)
 
 
 ## RDS接続
 
-![RDS接続](image04/RDS接続.png)
+![RDS接続](image4/RDS接続.png)
 
 
 
 ## EC2ポートIPアドレス
 
 
-![EC2ポートIPアドレス修正](image04/EC2IP変更.png)
+![EC2ポートIPアドレス修正](image4/EC2IP変更.png)
 
 
 ## RDSサブネット
 
 
-![RDSサブネット](image04/RDS概要差し替え.png)
+![RDSサブネット](image4/RDS概要差し替え.png)
 
 
 ## 不要ルール削除
 
 
-![不要ルール削除](image04/ルール変更.png)
+![不要ルール削除](image4/ルール変更.png)
 
 
 ## 感想
@@ -76,7 +76,7 @@ VPC詳細
 
 誤って、mainを操作してしまいました。これからは不注意をなくしていきます。
 
-##　再作成
+## 再作成
 
 
 元に戻すことができず停滞してしまった。
